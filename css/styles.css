@@ -1,0 +1,51 @@
+.answerOneOn {
+  display: none;
+}
+
+.clickableTitleOne {
+  cursor: pointer;
+}
+
+.clickableTitleOne:hover {
+  text-decoration: underline;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.answerTwoOn {
+  display: none;
+}
+
+.clickableTitleTwo {
+  cursor: pointer;
+}
+
+.clickableTitleTwo:hover {
+  text-decoration: underline;
+}
+
+.answerThreeOn {
+  display: none;
+}
+
+.clickableTitleThree {
+  cursor: pointer;
+}
+
+.clickableTitleThree:hover {
+  text-decoration: underline;
+}
+
+.answerFourOn {
+  display: none;
+}
+
+.clickableTitleFour {
+  cursor: pointer;
+}
+
+.clickableTitleFour:hover {
+  text-decoration: underline;
+}
